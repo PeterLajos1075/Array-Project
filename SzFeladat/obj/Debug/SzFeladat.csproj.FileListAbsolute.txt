@@ -1,0 +1,8 @@
+C:\Users\KOVACS_PETE\Desktop\Szorgalmi feladat\SzFeladat\SzFeladat\bin\Debug\SzFeladat.exe.config
+C:\Users\KOVACS_PETE\Desktop\Szorgalmi feladat\SzFeladat\SzFeladat\bin\Debug\SzFeladat.exe
+C:\Users\KOVACS_PETE\Desktop\Szorgalmi feladat\SzFeladat\SzFeladat\bin\Debug\SzFeladat.pdb
+C:\Users\KOVACS_PETE\Desktop\Szorgalmi feladat\SzFeladat\SzFeladat\obj\Debug\SzFeladat.csproj.AssemblyReference.cache
+C:\Users\KOVACS_PETE\Desktop\Szorgalmi feladat\SzFeladat\SzFeladat\obj\Debug\SzFeladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\KOVACS_PETE\Desktop\Szorgalmi feladat\SzFeladat\SzFeladat\obj\Debug\SzFeladat.csproj.CoreCompileInputs.cache
+C:\Users\KOVACS_PETE\Desktop\Szorgalmi feladat\SzFeladat\SzFeladat\obj\Debug\SzFeladat.exe
+C:\Users\KOVACS_PETE\Desktop\Szorgalmi feladat\SzFeladat\SzFeladat\obj\Debug\SzFeladat.pdb
